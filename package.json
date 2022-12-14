@@ -1,6 +1,6 @@
 {
   "name": "col2json",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A simple CLI to convert columns of CSV and TSV files to multiple json files.",
   "main": "col2json.js",
   "author": "Davide Carlier",
