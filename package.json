@@ -1,7 +1,7 @@
 {
   "name": "col2json",
   "version": "1.1.1",
-  "description": "A simple utility to convert columns of CSV and TSV files to json files.",
+  "description": "A simple CLI to convert columns of CSV and TSV files to multiple json files.",
   "main": "col2json.js",
   "author": "Davide Carlier",
   "license": "MIT",
@@ -15,5 +15,9 @@
     "columns",
     "convert",
     "converter"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidecarlier/col2json.git"
+  },
 }

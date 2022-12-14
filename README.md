@@ -1,8 +1,8 @@
-A simple utility to convert columns of CSV and TSV files to json files.
+A simple CLI to convert columns of CSV and TSV files to multiple json files.
 
-The first column define the keys of the exported object.
+The first column of the CSV defines the keys of the exported object.
 
-The first row defines the filename of each exported json file. 
+The first row of the CSV defines the filename of each exported json file. 
 
 
 
